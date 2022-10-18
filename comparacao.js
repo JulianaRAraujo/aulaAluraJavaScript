@@ -8,10 +8,10 @@ console.log (numero==texto);
 
 // === comparação valor e tipagem
 
-const numero2 = 5;
+const numero2 = 20;
 const texto2 = "5";
 
-console.log (numero2===texto2);
+console.log (numero2== '20');
 
 // para sabermos que tipo é a variavel usamos o typeof
 

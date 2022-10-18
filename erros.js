@@ -29,3 +29,4 @@ const erro2 = 1;
 console.log(erro2 SyntaxError: missing ) after argument list */ 
 
 
+/*Stacktrace é a lista de erros que aparece que geralmente te indica linha*/

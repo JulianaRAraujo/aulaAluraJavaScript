@@ -1,3 +1,4 @@
+/*MODELO DE STRING*/
 const nome = "Juliana";
 const idade = 2022 - 1984;
 const cidadeNascimento = "Porto Velho/RO";

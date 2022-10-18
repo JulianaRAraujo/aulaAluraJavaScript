@@ -14,3 +14,4 @@ const idadeCliente = 19;
             //condição                   // true                        //false
             
 console.log(idadeCliente >=idadeMinina ? "Pode bebe uma Cerverjinha" : "Tomo um suco ou agua");
+
